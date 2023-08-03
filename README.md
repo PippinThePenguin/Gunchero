@@ -1,7 +1,7 @@
 # Gunchero
  ## General Info
-Базовый прототип гейплея в стиле Archero для SirGames
-СтайлГайд:
+Базовый прототип гейплея в стиле Archero для SirGames.
+- СтайлГайд:
 https://google.github.io/styleguide/csharp-style.html
 
 ## Content
